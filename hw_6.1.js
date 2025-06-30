@@ -1,4 +1,4 @@
-function generateRandomNumbers(count) {
+function checkProbabilityTheory(count) {
   const numbers = [];
   let evenCount = 0;
   let oddCount = 0;
@@ -22,4 +22,4 @@ function generateRandomNumbers(count) {
   console.log("Непарні: " + oddCount + " (" + oddPercent.toFixed(0) + "%)");
 }
 
-generateRandomNumbers(10);
+checkProbabilityTheory(10);

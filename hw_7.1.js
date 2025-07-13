@@ -1,7 +1,7 @@
 const services = {
-  haircut: "360 грн",
-  shaving: "280 грн",
-  washing: "200 грн",
+  haircut: "360 uah",
+  shaving: "280 uah",
+  washing: "200 uah",
 };
 
 function price(services) {
